@@ -1,3 +1,31 @@
+
+--[[
+ __  __   ______   ______  ______  ______   ______   __    
+/\ \_\ \ /\  __ \ /\__  _\/\__  _\/\  __ \ /\  == \ /\ \   
+\ \  __ \\ \  __ \\/_/\ \/\/_/\ \/\ \ \/\ \\ \  __< \ \ \  
+ \ \_\ \_\\ \_\ \_\  \ \_\   \ \_\ \ \_____\\ \_\ \_\\ \_\ 
+  \/_/\/_/ \/_/\/_/   \/_/    \/_/  \/_____/ \/_/ /_/ \/_/ 
+                                                           
+
+    Hattori v4 by Phoenixx, Source Release
+    Ui Library made by xMee
+
+
+    Read through the code and learn from my mistakes, make fun of my shitty code, or even if you skid it,   i don't give a fuck
+    If you do take the code or whatever, at least give credits
+
+    -RIP Hattori 2020
+
+]]
+
+
+
+
+
+
+
+
+
 local codeWhenHopping = [[
     repeat wait() until game.Loaded;]]
 
